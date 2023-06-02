@@ -1,0 +1,17 @@
+.ht-nav{
+    height: 100px;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.manali-photo{
+    margin: 5px;
+}
+.headings{
+    margin-top: 10px;
+    text-align: center; 
+    font-weight: bold;
+    font-size: 150%;
+    color: brown;
+}
